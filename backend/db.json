@@ -1,0 +1,71 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "title": "Pizza",
+      "category": "Junk",
+      "price": 20,
+      "description": "Just an overhyped food"
+    },
+    {
+      "id": 2,
+      "title": "Rice and beans",
+      "category": "Heavy",
+      "price": 100,
+      "description": "Nice combo for lunch"
+    },
+    {
+      "id": 3,
+      "title": "Spagetti and chicken",
+      "category": "Heavy",
+      "price": 70,
+      "description": "Just the perfect meal for a romantic dinner"
+    },
+    {
+      "id": 4,
+      "title": "Noodles",
+      "category": "Junk",
+      "price": 25,
+      "description": "It comes through when you are most hungry"
+    },
+    {
+      "id": 5,
+      "title": "Yam and eggs",
+      "category": "Heavy",
+      "price": 55,
+      "description": "Best eaten on a cold evening"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 2,
+      "comment": "I just love pizza",
+      "mealId": 1
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "comment": "Nice flavors",
+      "mealId": 3
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "comment": "It never disappoints",
+      "mealId": 2
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "comment": "Waw, i just found my perfect combo",
+      "mealId": 5
+    },
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "Just wonderful!!!",
+      "mealId": 4
+    }
+  ]
+}
